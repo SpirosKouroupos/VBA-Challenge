@@ -1,2 +1,2 @@
 # VBA-Challenge
-This is my homework for Challenge 2 
+I had help with the coding from tutors, google, reddit, office hours, AskBCS, github, utilized xpert, classmates
